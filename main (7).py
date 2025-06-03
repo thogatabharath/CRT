@@ -1,0 +1,10 @@
+lst=[10,20,30,40,50]
+lst.append(900)
+lst.pop()
+lst.insert(3,800)
+lst.remove(20)
+ans=lst.count(30)
+print(ans)
+lst.sort()
+lst.reverse()
+print(lst)
